@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Ammaccabanane
+Ammaccabanane Jambalaja
 Use the left arrow to go back!
